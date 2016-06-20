@@ -1,0 +1,23 @@
+{
+  "name": "coding-battle-microsoft",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gregoirevda/coding-battle-microsoft.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gregoirevda/coding-battle-microsoft/issues"
+  },
+  "homepage": "https://github.com/Gregoirevda/coding-battle-microsoft#readme",
+  "dependencies": {
+    "botbuilder": "^1.0.1",
+    "restify": "^4.1.1"
+  }
+}
